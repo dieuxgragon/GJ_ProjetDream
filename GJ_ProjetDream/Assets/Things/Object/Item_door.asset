@@ -12,8 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 27af4e401c35c764c8cd0c0feb41e392, type: 3}
   m_Name: Item_door
   m_EditorClassIdentifier: 
-  prefab: {fileID: 0}
-  name: 
-  description: 
-  objectType: 0
-  isUsable: 0
+  prefab: {fileID: 4499930931822968778, guid: ae744ba8d07689e4aae6a523edf8dfac, type: 3}
+  name: Door
+  description: A door
+  objectType: 4
